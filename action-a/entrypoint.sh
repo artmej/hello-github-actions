@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo que pex 🤣, $INPUT_MY_NAME"
+sh -c "echo Hola 🤣, $INPUT_MY_NAME"
